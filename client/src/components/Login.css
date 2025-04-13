@@ -1,0 +1,33 @@
+.formWrapper {
+    width: 100%;
+    max-width: 350px; /* Controls the input field width */
+    margin: 0 auto;
+}
+
+.loginCard
+{
+    background-color: rgb(131, 174, 181) !important;
+    box-shadow:  0px 4px 10px rgba(0, 0, 0, 0.8);
+}
+
+.form-control
+    {
+        width: 100%;
+        max-width: 300px; /* Prevents excessive stretching */
+    min-width: 200px; /* Ensures it doesn’t shrink too much */  
+    margin: 0 auto; /* Centers the input field */
+    }   
+
+
+.btn
+{
+    width: 100%;
+    max-width: 300px; /* Prevents excessive stretching */
+    min-width: 200px; /* Ensures it doesn’t shrink too much */  
+margin: 0 auto; /* Centers the input field */
+}
+
+.btn-primary:hover
+{
+    background-color: rgb(5, 51, 111);
+}

@@ -1,0 +1,17 @@
+.card {
+    max-width: 100%;
+    width: 100%;
+}
+
+.card form {
+    width: 100%;
+}
+
+.card .form-group {
+    width: 100%; 
+}
+
+.card .form-control {
+    width: 100% !important; 
+    max-width: 100%;
+}

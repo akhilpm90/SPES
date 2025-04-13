@@ -1,0 +1,17 @@
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form
+{
+    width: 600px;
+}
+
+button
+{
+    width: 100%;
+}
+

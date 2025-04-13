@@ -1,0 +1,31 @@
+.evalBtn
+{
+  width: 40%;
+  height:80px ;
+  background-color: rgb(20, 91, 223);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  
+}
+
+.evalCol
+{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+
+.card-body {
+  height: 300px; /* Adjust based on your needs */
+}
+
+canvas {
+  max-height: 250px !important; /* Ensures the chart does not exceed this height */
+}
