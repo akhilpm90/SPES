@@ -225,7 +225,7 @@ const avgScoreChartData = {
             >
               <strong>Evaluate Employee</strong>
             </div>
-            <div className="evalBtn" onClick={()=>{
+            {/* <div className="evalBtn" onClick={()=>{
               if(role==="Team Leader"){
                 navigate(`/edit-tl-evaluation/${employeeID}`)
                   }
@@ -234,7 +234,7 @@ const avgScoreChartData = {
                   }
             }}>
               <strong>Edit Evaluation</strong>
-            </div>
+            </div> */}
           </Col>
         </Row>
       </Container>
